@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZChat</string>
+    <string name="first_box">Name</string>
+    <string name="second_box_txt">Email</string>
+    <string name="app_name_txt">ZChat</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="signUp_btn_txt">Sign up</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="third_box_txt">Password</string>
+    <string name="msgBox_txt">Type a message</string>
+    <string name="example_sendMsg_txt">send message</string>
+    <string name="receive_message_txt">receive message</string>
+    <string name="send_message_txt">send message</string>
+</resources>
